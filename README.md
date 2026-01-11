@@ -71,9 +71,5 @@ webbed-dreams/
 └── assets/          # (Optional) Images and static assets
 
 
-Contributing
+Copyright 2026 Webbed Dreams Digital Agency 
 
-We welcome fellow "Dream Weavers" to contribute. Please fork the repository and create a pull request for any features or bug fixes.
-
-Crafted with 💜 by the Webbed Dreams Team. Dream-Weaver
-Dream Weaver
